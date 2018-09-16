@@ -2,7 +2,7 @@
   "name": "react-gh-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/smzakaria/first_react",
+  "homepage": "https://smzakaria.github.io/first_react",
   "dependencies": {
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
